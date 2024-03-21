@@ -1,4 +1,8 @@
 package com.scaler.bookmyshow.Models.Enums;
 
-public enum PaymentStatus {
+public enum Features {
+    THREE_D,
+    IMAX,
+    DOLDY
+
 }

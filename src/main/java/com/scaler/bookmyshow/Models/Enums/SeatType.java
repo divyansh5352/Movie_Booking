@@ -1,4 +1,7 @@
 package com.scaler.bookmyshow.Models.Enums;
 
-public enum PaymentStatus {
+public enum SeatType {
+    SILVER,
+    GOLD,
+    PLATINUM
 }

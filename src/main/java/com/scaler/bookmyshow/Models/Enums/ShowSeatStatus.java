@@ -1,6 +1,6 @@
 package com.scaler.bookmyshow.Models.Enums;
 
-public enum SeatStatus {
+public enum ShowSeatStatus {
     AVAILABLE,
     LOCKED,
     BOOKED,
